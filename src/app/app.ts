@@ -1,8 +1,11 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { Header } from './layout/header/header';
+import  {ProductList} from './shared/components/product-list/product-list';
+
 
 @Component({
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, Header, ProductList],
   selector: 'app-root',
   styleUrl: './app.scss',
   templateUrl: './app.html',
@@ -10,3 +13,4 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   protected readonly title = signal('product-list');
 }
+
