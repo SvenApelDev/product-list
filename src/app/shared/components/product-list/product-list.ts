@@ -15,7 +15,7 @@ DPI. Ideal für FPS- und MOBA-Spiele, bietet sie eine langlebige Bauweise und ko
 Seitentasten für schnelles Reagieren.`,
  "specs": "dpi: 6400, cable length: 1.8m, color: Schwarz",
  "stock": 120,
- "price": 2500000
+ "price": 25500000
  },
  {
  "name": "USB-C Kabel",
@@ -24,7 +24,7 @@ schnelles Laden und Datenübertragung. Perfekt für den täglichen Einsatz zu Ha
 oder unterwegs.`,
  "specs": "length: 1m, color: Weiß, type: USB-C zu USB-A",
  "stock": 300,
- "price": 4800
+ "price": 78500
  },
  {
  "name": "Mechanische Tastatur",
@@ -42,7 +42,7 @@ und 8K Qualität liefert. Geeignet für Fernseher, Monitore, Konsolen und Projek
 Unterstützt HDR und hohe Bildwiederholraten.`,
  "specs": "length: 2m, version: 2.1, color: Schwarz",
  "stock": 250,
- "price": 12.99
+ "price": 12.95
  },
  {
  "name": "Externe SSD",
@@ -51,7 +51,7 @@ Datenübertragung. Perfekt für große Dateien, Gaming-Bibliotheken oder als Bac
 Stoßfestes Gehäuse für den mobilen Einsatz.`,
  "specs": "capacity: 1TB, interface: USB 3.2, color: Silber",
  "stock": 60,
- "price": 109.99
+ "price": 109.95
  },
  {
  "name": "Bluetooth Kopfhörer",
